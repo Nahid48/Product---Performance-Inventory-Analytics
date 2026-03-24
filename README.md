@@ -1,11 +1,10 @@
-# Retail-Sales-Decline-Analysis-Dashboard
----  
 
-# 📉 Retail Sales Decline Analysis Dashboard
+
+# 📉 Product Performance & Inventory Analytics
 
 ## 🚀 Project Summary
 
-The **Retail Sales Decline Analysis Dashboard** is an end-to-end business intelligence project developed to analyze declining sales performance and generate actionable insights for revenue improvement.
+The **Product Performance & Inventory Analytics** is an end-to-end business intelligence project developed to analyze declining sales performance and generate actionable insights for revenue improvement.
 
 This project focuses on transforming raw retail transaction data into meaningful business insights using interactive dashboards. It helps stakeholders understand **why sales are declining, where performance gaps exist, and what strategic actions can be taken** to improve business outcomes.
 
